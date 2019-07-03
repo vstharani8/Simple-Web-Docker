@@ -3,7 +3,7 @@
 ## Install guide
 
 
-## 1. Deploy the registry with AWS S3 as container and Defie the Config file for AWS S3
+## 1. Deploy the registry with AWS S3 as container and Define the Config file for AWS S3
 
 ```bash
 $ cd registry
